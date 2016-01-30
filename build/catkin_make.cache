@@ -1,0 +1,2 @@
+hello_world:turtlebot_minor
+-DCATKIN_DEVEL_PREFIX=/home/rddesmit/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rddesmit/catkin_ws/install -G Unix Makefiles

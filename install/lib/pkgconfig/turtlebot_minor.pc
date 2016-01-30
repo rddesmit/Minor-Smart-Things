@@ -1,0 +1,8 @@
+prefix=/home/rddesmit/catkin_ws/install
+
+Name: turtlebot_minor
+Description: Description of turtlebot_minor
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rddesmit/catkin_ws/install/lib 
+Requires: 

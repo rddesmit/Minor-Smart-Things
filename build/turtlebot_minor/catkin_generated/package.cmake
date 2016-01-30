@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "turtlebot_minor")
+set(turtlebot_minor_MAINTAINER "rddesmit <rddesmit@todo.todo>")
+set(turtlebot_minor_DEPRECATED "")
+set(turtlebot_minor_VERSION "0.0.0")
+set(turtlebot_minor_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "move_base_msgs" "actionlib" "actionlib_msgs")
+set(turtlebot_minor_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "move_base_msgs" "actionlib" "actionlib_msgs")
+set(turtlebot_minor_BUILDTOOL_DEPENDS "catkin")

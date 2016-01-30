@@ -1,0 +1,8 @@
+prefix=/home/rddesmit/catkin_ws/install
+
+Name: hello_world
+Description: Description of hello_world
+Version: 0.0.0
+Cflags: -I/home/rddesmit/catkin_ws/install/include
+Libs: -L/home/rddesmit/catkin_ws/install/lib -lhello_world
+Requires: roscpp rospy std_msgs message_runtime
